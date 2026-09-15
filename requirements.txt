@@ -5,3 +5,4 @@ greenlet
 uvicorn
 httpx  # only for the TestClient walkthrough
 pydantic
+alembic
