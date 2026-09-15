@@ -1,0 +1,6 @@
+starlette
+sqlalchemy
+aiosqlite
+greenlet
+uvicorn
+httpx  # only for the TestClient walkthrough
